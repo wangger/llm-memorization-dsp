@@ -1,8 +1,16 @@
 # Unlocking Memorization in Large Language Models with Dynamic Soft Prompting
 
+## Introduction
+This repository contains the source code to extract memorized training data from large language models (LLMs) using dynamic soft prompting. The implementation is based on the repo (https://github.com/amazon-science/controlling-llm-memorization). 
+
+<div align="center">
+	<img src="./materials/Github_Image.png" alt="ali_pay" width="600" />
+</div>
+
+## Execution
+It is coming soon.
 
 ## Citation
-
 If you find the repo useful, please kindly star this repository and cite our papers:
 
 ```bibtex
